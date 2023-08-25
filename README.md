@@ -1,4 +1,5 @@
 # This made by Subhadeep Pramanik AKA Adrianalvird
+In this list I made more than 10K wordlist for admin finding path , and more than 800 subdomain for possible admin panel .
 
 # Admin-Finder
 All possible Admin panel directory and subdomain lists
