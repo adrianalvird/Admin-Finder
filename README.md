@@ -8,6 +8,7 @@ Use Any Fuzzing Tool like Dirbuster , Gobuster , FFuF  etc ..
 
 # Usage : [ FFuF ]
 
+//** replace with the target.site.com with your target website **//
 //** this FUZZ will replace with the each wordlist character **//
 //** -mc 200 will check the status code 200 **//
 
